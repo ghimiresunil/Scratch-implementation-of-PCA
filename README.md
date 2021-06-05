@@ -2,6 +2,8 @@
 
 ## Short Introuction 
 
+![pcaproject](https://user-images.githubusercontent.com/40186859/120884625-ce1ada80-c603-11eb-90f4-e9e361472576.png)
+
 I would like to say a few things about Vignesh Natarajan's answer first:
 
 The curse of dimensionality is not about having a large number of dimensions, is about having an algorithm that struggles in a large number of dimensions or in more general terms a bad combination of algorithm/dimensionality for whatever reason. Some algorithms perform very very well in millions of dimensions, like Perceptron and Linear SVM.
