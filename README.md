@@ -17,4 +17,4 @@ Just to add something to the original answer about eigenvectors and eigenvalues 
 * What is "Dimensionality Reduction Problem"? Why is it necessary in Machine Learning?
 * What is PCA? Discuss few applications in Machine Learning
 * Write Short notes on the following topics:
-** Variance & Covariance
+-- Variance & Covariance
