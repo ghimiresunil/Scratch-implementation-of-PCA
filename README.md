@@ -36,7 +36,6 @@ Just to add something to the original answer about eigenvectors and eigenvalues 
 *  Step 2: Data Visualization
 *  Step 3: Data Pre-Processing
 *  Step 4: Computaion of Eigen Values & Eigen Vectors
-*  Checking each features has unit variance before applying PCA
 *  Step 5: Singular Value Decomposition (SVD)
 *  Step 6: Picking Principal Components Using the Explained Variance
 *  Step 7: Project Data onto Lower Dimensional Linear Subspace
