@@ -1,6 +1,6 @@
 # PCA from scratch
 
-## Short Introuction 
+## Short Introduction 
 
 ![pcaproject](https://user-images.githubusercontent.com/40186859/120884625-ce1ada80-c603-11eb-90f4-e9e361472576.png)
 
